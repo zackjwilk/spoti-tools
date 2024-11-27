@@ -40,4 +40,4 @@ Spotify Subplaylist Maker is a Python script that takes a playlist link or user'
 #### Usage
 Edit the `.env` file and replace your_client_id and your_client_secret with your own Spotify application Client ID and Client Secret. Then, edit the factors dictionary in `subplaylist_maker.py` to your liking.
 
-Run `subplaylist_maker.py`, provide authorization with your Spotify credentials, and enter your Spotify username and specify liked songs or the link to your desired playlist!
+Run `subplaylist_maker.py`, provide authorization with your Spotify credentials, enter your Spotify username, and specify liked songs or the link to your desired playlist!
