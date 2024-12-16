@@ -3,11 +3,11 @@
 ## Installation
 Clone the repository:
 
-`git clone https://github.com/zackjwilk/spotify-tools.git`
+`git clone https://github.com/zackjwilk/spoti-tools.git`
 
 Install dependencies with pip:
 
-`pip install -r spotify-tools/requirements.txt`
+`pip install -r spoti-tools/requirements.txt`
 
 ## Features
 ---
