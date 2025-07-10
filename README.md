@@ -1,4 +1,5 @@
 # spoti-tools
+WARNING: Apparently Spotify has deprecated access to audio features through their API, which this program relies on for the playlist sequencer and subplaylist maker.
 ---
 ## Installation
 Clone the repository:
